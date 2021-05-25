@@ -1,12 +1,4 @@
-### Hi there 👋
-<!---
-Here are some ideas to get you started:
+"## Hi there 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about
-- 📫 How to reach me:
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:  -->
+![Look my wiki to read about some projects] (<https://github.com/RenataBeroli/RenataBeroli/wiki>)
+
