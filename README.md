@@ -7,9 +7,9 @@
 </div>
 <br>
 
-<h2>
-Connect with me
-</h2>
+<h1 style="text-align: center; margin-bottom: 30px">
+Get in touch
+</h1>
 
 <div align="center" style="text-align:center">
     <a href="renata.olive19@gmail.com">
@@ -25,5 +25,3 @@ Connect with me
             alt="Renata's twitter">
     </a>
 </div>
-
----
