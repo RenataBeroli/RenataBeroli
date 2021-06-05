@@ -1,8 +1,8 @@
-![Header image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8096a62e-8fe3-4138-84c8-98d066049731/Custom_Size__1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210601%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210601T133603Z&X-Amz-Expires=86400&X-Amz-Signature=5d6a8296b1c84d22d13ce09a544f25b56acb2f72fc9e9fea4cbae4834bd2a216&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Custom_Size__1.png%22)
+![Header image](https://github.com/RenataBeroli/RenataBeroli/blob/main/Custom%20Size%20%E2%80%93%201.png?raw=trueg)
 
 <div>
     <a href="https://github.com/RenataBeroli/RenataBeroli/wiki">
-        <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d00a3e1-148f-43bf-9915-ccad6f4aef02/Custom_Size__2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210601%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210601T133555Z&X-Amz-Expires=86400&X-Amz-Signature=995302ca45e37b8dc2b40e3ae5b764dc65fb817d58b638352d963ff00eaf9193&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Custom_Size__2.png%22">
+        <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Custom%20Size%20%E2%80%93%202.png?raw=true">
     </a>
 </div>
 <br>
