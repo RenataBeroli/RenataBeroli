@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-    <h2 style="margin-bottom:30px; color: #1E6672">
+    <h2 style="margin-bottom:30px">
         Get in touch
     </h2>
 </div>
