@@ -18,14 +18,14 @@
 <div align="center" style="text-align:center">
     <a href=mailto:renata.olive19@gmail.com?>
         <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/email.png?raw=true"
-        alt="Renata's Gmail" style="padding-right: 30px; height:100px">
+        alt="Renata's Gmail" style="padding-right: 30px; height:70px">
     </a>
     <a href="https://www.linkedin.com/in/renataberoli/">
         <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/linkedin.png?raw=true"
-            alt="Renata's LinkedIn" style="padding-right: 30px; height:100px">
+            alt="Renata's LinkedIn" style="padding-right: 30px; height:70px">
     </a>
     <a href="https://twitter.com/BeroleeR">
         <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/twitter.png?raw=true"
-            alt="Renata's twitter" style="height:100px">
+            alt="Renata's twitter" style="height:70px">
     </a>
 </div>
