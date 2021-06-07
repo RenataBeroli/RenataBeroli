@@ -1,8 +1,8 @@
-![Header image](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/Custom%20Size%20%E2%80%93%201.png?raw=true)
+![Header image](https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/1.png?raw=true)
 
 <div>
     <a href="https://github.com/RenataBeroli/RenataBeroli/wiki">
-        <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/Custom%20Size%20%E2%80%93%202.png?raw=true">
+        <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/2.png?raw=true">
     </a>
 </div>
 <br>
