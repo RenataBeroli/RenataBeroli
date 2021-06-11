@@ -7,6 +7,7 @@
 </div>
 <br>
 
+<!-- 
 <div align="center">
     <h2 style="margin-bottom:30px">
         Get in touch
@@ -25,5 +26,5 @@
     <a href="https://twitter.com/BeroleeR">
         <img src="https://github.com/RenataBeroli/RenataBeroli/blob/main/Images/twitter.png?raw=true"
             alt="Renata's twitter">
-    </a>
-</div>
+    </a> 
+</div> -->
