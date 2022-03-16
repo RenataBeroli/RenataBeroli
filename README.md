@@ -5,7 +5,7 @@ master, but I'm constantly dipping my toes into new waters. I have already worke
 Tester, UX/UI, and Scrum Master in my career. As a result, I can say that I worked with most software development 
 lifecycle and feel comfortable designing to achieve efficiency and good experiences.
 
-📚 💻 Currently, I'm trying to improve my programming skills, focusing first on backend development with Django and using 
+📚 Currently, I'm trying to improve my programming skills, focusing first on backend development with Django and using 
 Bootstrap, HTML, and CSS to finish the interfaces. However, I have already done some automatized testings with Python 
 and run them in GitHub Actions to learn more about both. 
 
