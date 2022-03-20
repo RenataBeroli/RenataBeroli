@@ -12,7 +12,7 @@ and run them in GitHub Actions to learn more about both.
 
 ## 📝 2022 goals 
 
-- [x] [Play with GitHub Actions and automated tests in python.](https://github.com/renataberoli/unittest_Python)
+- [x] [Play with GitHub Actions and automated tests in python.](https://github.com/renataberoli/api_testing_github)
 - [x] [Develop a small django application.](https://github.com/renataberoli/bug_catcher)
 - [ ] Develop a small game API with django rest framework.
 - [ ] Learn more about javaScript.
