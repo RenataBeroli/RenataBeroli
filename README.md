@@ -10,7 +10,7 @@ Cypress and Selenium. I'm actively learning and practicing these tools to become
 already done some automatized tests with Python and run them in GitHub Actions to learn more about both. 
 
 
-## 📝 2023 goals 
+## 📝 2024 goals 
 
 - [x] [Play with GitHub Actions and automated tests in Python.](https://github.com/renataberoli/api_testing_github)
 - [x] [Develop a small Django application.](https://github.com/renataberoli/bug_catcher)
